@@ -46,7 +46,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [[Emmanuel Abia](https://biogpreview.netlify.app/)]
 - Frontend Mentor - [@otunba32](https://www.frontendmentor.io/profile/otunba32)
 - Twitter - [@otunba_Abia](https://www.twitter.com/otunba_Abia)
 
